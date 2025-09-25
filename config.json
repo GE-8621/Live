@@ -1,0 +1,253 @@
+{
+  "cache_time": 9200,
+  "api_site": {
+    "001": {
+      "api": "https://360zy.com/api.php/provide/vod",
+      "name": "TV-360资源",
+      "detail": ""
+    },
+    {
+      "key": "001",
+      "name": "",
+      "api": "",
+      "detail": "https://360zy.com",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "002",
+      "name": "TV-ikun资源",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "detail": "https://ikunzyapi.com",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "003",
+      "name": "TV-光速资源",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "detail": "https://api.guangsuapi.com",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "004",
+      "name": "TV-卧龙资源",
+      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "detail": "https://wolongzyw.com",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "005",
+      "name": "TV-天涯资源",
+      "api": "https://tyyszy.com/api.php/provide/vod",
+      "detail": "https://tyyszy.com",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "006",
+      "name": "TV-小猫咪资源",
+      "api": "https://zy.xmm.hk/api.php/provide/vod",
+      "detail": "https://zy.xmm.hk",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "007",
+      "name": "TV-新浪点播",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "detail": "https://api.xinlangapi.com",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "008",
+      "name": "TV-最大资源",
+      "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "detail": "https://api.zuidapi.com",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "009",
+      "name": "TV-电影天堂资源",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "detail": "http://caiji.dyttzyapi.com",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "010",
+      "name": "TV-神马云",
+      "api": "https://api.1080zyku.com/inc/apijson.php/",
+      "detail": "https://api.1080zyku.com",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "011",
+      "name": "TV-红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "detail": "https://www.hongniuzy2.com",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "012",
+      "name": "TV-茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "detail": "https://caiji.maotaizy.cc",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "013",
+      "name": "TV-豆瓣资源",
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod",
+      "detail": "https://caiji.dbzy.tv",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "014",
+      "name": "TV-豆瓣资源2",
+      "api": "https://dbzy.tv/api.php/provide/vod",
+      "detail": "https://dbzy.tv",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "015",
+      "name": "TV-豪华资源",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "detail": "https://hhzyapi.com",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "016",
+      "name": "TV-金鹰资源",
+      "api": "https://jyzyapi.com/api.php/provide/vod",
+      "detail": "https://jyzyapi.com",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "017",
+      "name": "TV-非凡资源",
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "detail": "https://cj.ffzyapi.com",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "018",
+      "name": "TV-飘零资源",
+      "api": "https://p2100.net/api.php/provide/vod",
+      "detail": "https://p2100.net",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "019",
+      "name": "TV-魔都动漫",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "detail": "https://caiji.moduapi.cc",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "020",
+      "name": "TV-魔都资源",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "detail": "https://www.mdzyapi.com",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "021",
+      "name": "TV-非凡影视new",
+      "api": "https://api.ffzyapi.com/api.php/provide/vod",
+      "detail": "http://ffzy5.tv",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "022",
+      "name": "TV-极速资源",
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "detail": "https://jszyapi.com",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "024",
+      "name": "TV-无尽",
+      "api": "https://api.wujinapi.cc/api.php/provide/vod",
+      "detail": "",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "025",
+      "name": "TV-卧龙资源",
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod",
+      "detail": "",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "026",
+      "name": "TV-如意资源",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "detail": "",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "027",
+      "name": "TV-暴风资源",
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "detail": "",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "028",
+      "name": "TV-速博资源",
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "detail": "",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "029",
+      "name": "TV-量子资源",
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "detail": "",
+      "from": "custom",
+      "disabled": false
+    },
+    {
+      "key": "030",
+      "name": "TV-影视工厂",
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "detail": "",
+      "from": "custom",
+      "disabled": false
+    }
+  ],
+
+
+
+    
+    "dyttzy": {
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "name": "电影天堂资源",
+      "detail": "http://caiji.dyttzyapi.com"
+    },
+    
+  }
+}

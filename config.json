@@ -151,5 +151,47 @@
       "name": "TV-影视工厂",
       "detail": ""
     },
+	  "030": {
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "name": "TV-爱奇艺",
+      "detail": "https://iqiyizyapi.com",
+      "is_adult": false
+    },
+    "031": {
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "name": "TV-优质资源",
+      "detail": "https://1080zyk4.com",
+      "is_adult": false
+    },
+    "032": {
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "name": "TV-猫眼资源",
+      "detail": "https://www.maoyanzy.com",
+      "is_adult": false
+    },
+    "033": {
+      "name": "TV-最大点播",
+      "api": "https://zuidazy.me/api.php/provide/vod",
+      "detail": "https://zuidazy.co",
+      "is_adult": false
+    },
+    "034": {
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "name": "TV-樱花资源",
+      "detail": "https://yhzy.cc",
+      "is_adult": false
+    }, 
+    "035": {
+      "name": "TV-U酷资源",
+      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "detail": "https://api.ukuapi.com",
+      "is_adult": false
+    },
+    "036": {
+      "name": "TV-U酷88",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "detail": "https://api.ukuapi88.com",
+      "is_adult": false
+    },
   }
 }
